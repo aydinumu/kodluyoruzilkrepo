@@ -1,4 +1,4 @@
-![Resim Açıklaması](https://cdn.prod.website-files.com/6097e0eca1e87557da031fef/63739a32259566fc9428cb1d_Deneme.png)
+![Resim Açıklaması](https://bdays.org/strategic-partners/patika-dev.svg)
 
 # Kodluyoruz İlk Repo
 
